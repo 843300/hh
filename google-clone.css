@@ -21,18 +21,21 @@ body {
 
 .inner_container {
 
-    margin: 3.125rem;
-    height: 31.25rem;
-    width: 28rem;
+    margin: auto;
+    height: auto;
+    width: auto;
     border: 0.1em solid #d9dadb;
     background-color: white;
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     margin-bottom: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
     align-items: center;
+    
 }
 
 
